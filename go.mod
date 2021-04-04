@@ -1,3 +1,3 @@
-module github.com/LxAday/gin-golog
+module github.com/LxAday/golog
 
 go 1.16
